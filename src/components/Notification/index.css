@@ -1,0 +1,25 @@
+.notifications-container {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+border: 1px solid #ffb700;
+border-radius: 10px;
+margin: 20px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+.children-container {
+display: flex;
+flex-direction: row;
+}
+
+.form-close {
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.icon-form-close {
+font-size: 35px;
+}
